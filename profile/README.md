@@ -37,7 +37,7 @@ Open-source game engine that can be used for making games and building cool proj
       <a href="https://github.com/engine3d-dev/TheAtlasEngine/releases"><img src="https://img.shields.io/github/v/release/engine3d-dev/TheAtlasEngine" /></a>
     </td>
     <td>
-      <a href="https://github.com/engine3d-dev/engine-audio">engine-audio</a>
+      <a href="https://github.com/engine3d-dev/engine-audio">audio</a>
     </td>
     <td>
       <a href=""><img src="https://github.com/engine3d-dev/engine-audio/actions/workflows/clang-format-deploy.yml/badge.svg" /></a>
